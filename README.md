@@ -8,9 +8,6 @@ The goal of the project is to build a personal AI agent capable of assisting wit
 
 ### Plan
 
-Create virtual environment of the project
-Choose a model 
-Connect with API or locally 
 
 
 
